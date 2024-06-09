@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HotelReservationSystem</string>
+    <string name="room_price_display">Room Price: $%d</string>
+    <string name="total_price_display">Total Price: $%d</string>
+    <string name="invalid_dates">Invalid dates</string>
+    <string name="invalid_num_rooms">Invalid number of rooms</string>
+
+
+
+    <string name="select_room_type">Select Room Type</string>
+        <string name="select_num_guests">Select Number of Guests</string>
+        <!-- other string resources -->
+
+    <!-- Other string resources -->
+</resources>
